@@ -1,0 +1,33 @@
+[
+    {
+        "nev": "Palacsinta",
+        "leiras": "finom palacsinta.",
+        "ar": 20000,
+        "kep": "kepek/1.jpg"
+    },
+    {
+        "nev": "Tiszai gát",
+        "leiras": "Poroszló menti Tisza töltés viharos időben.",
+        "ar": 10000,
+        "kep": "kepek/2.jpg"
+    },
+    {
+        "nev": "Börzsöny",
+        "leiras": "Kilátás a fák mögül a szemközti hegyoldalra. Hollókő.",
+        "ar": 2300,
+        "kep": "kepek/3.jpg"
+    },
+    {
+        "nev": "Pléska-szikla felé",
+        "leiras": "Úton a Pléska-szikla felé az őszi erdőben.",
+        "ar": 22000,
+        "kep": "kepek/4.jpg"
+    },
+    {
+        "nev": "Viadukt",
+        "leiras": "Biatorbágyi viadukt a fák között.",
+        "ar": 2300,
+        "kep": "kepek/5.jpg"
+    }
+ 
+]
