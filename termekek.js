@@ -11,6 +11,7 @@ class Termekek {
     this.gomb.on("click", () => {
       this.kosarbaTesz();
     });
+    
   }
   setAdatok(ertekek) {
     this.nevelem.html(ertekek.nev);
@@ -21,5 +22,12 @@ class Termekek {
   kosarbaTesz() {
     let esemeny = new CustomEvent("termekValaszt", { detail: this.adat });
     window.dispatchEvent(esemeny);
+   
   }
+  /*getNev(){
+    return this.nev;
+  }
+  getAr(){
+    return this.ar;
+  }*/
 }
